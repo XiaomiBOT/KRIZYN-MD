@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['62895327934887'] 
+global.owner = ['62857791505012'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Krizyn Ofc'
-global.numberowner = '62895327934887'
-global.instagram = 'https://instagram.com/mhdfakri_'
-global.github = 'https://github.com/krizynofc'
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
+global.nameowner = 'Rangga Ofc'
+global.numberowner = '62857791505012'
+global.instagram = 'https://instagram.com/rangga_botz'
+global.github = 'https://github.com/XiaomiBOT'
+global.dana = '085779150501'
+global.pulsa = '085779150501'
+global.gopay = '085779150501'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Krizyn-MD'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Xiaomi-MD'
+global.gc = 'https://chat.whatsapp.com/DcIcuTKGWSm1pxBVc9pgvR'
+global.web = 'GK ADA COK' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'NIH KAK LIST SEWA NYA\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,7 +23,7 @@ global.fotonya1 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻𝙺𝚁𝙸𝚉𝚈𝙽 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
+global.wm = '↻𝚇𝙸𝙰𝙾𝙼𝙸 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
 global.watermark = wm
 global.wm2 = ' ⊙────────❲ ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ ❳'
 global.wm3 = 'ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ'
@@ -36,8 +36,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Krizyn Ofc'
-global.author = '@mhdfakri_'
+global.packname = 'Rangga Ofc'
+global.author = '@Xiaomi_'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
